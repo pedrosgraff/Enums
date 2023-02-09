@@ -8,9 +8,9 @@ namespace Enums.Entities.Enum
 {
     enum OrderStatus : int
     {
-        Pending_Payment = 0,
+        PendingPayment = 0,
         Processing = 1,
-        Shipping = 2,
+        Shipped = 2,
         Delivered = 3
     }
 }

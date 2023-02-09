@@ -1,0 +1,15 @@
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.csproj.AssemblyReference.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.AssemblyInfoInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.AssemblyInfo.cs
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.csproj.CoreCompileInputs.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\bin\Debug\net7.0\Enums.exe
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\bin\Debug\net7.0\Enums.deps.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\bin\Debug\net7.0\Enums.runtimeconfig.json
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\bin\Debug\net7.0\Enums.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\bin\Debug\net7.0\Enums.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\refint\Enums.dll
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.pdb
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\Enums.genruntimeconfig.cache
+D:\Cursos\Programação-Cursos\C#\Projetos estudos\Enums\Enums\obj\Debug\net7.0\ref\Enums.dll
